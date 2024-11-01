@@ -130,6 +130,72 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 
+#广东/50个频道
+#EXTINF:-1 tvg-name="广东新闻" tvg-id="广东新闻" tvg-logo="" group-title="地方频道", 广东新闻
+http://www.zz49.top:4022/udp/239.77.0.4:5146
+#EXTINF:-1 tvg-name="广州新闻" tvg-id="广州新闻" tvg-logo="" group-title="地方频道", 广州新闻
+https://stream1.freetv.fun/yan-zhou-xin-wen-8.ctv
+#EXTINF:-1 tvg-name="广州竞赛" tvg-id="广州竞赛" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="地方频道", 广州竞赛
+https://stream1.freetv.fun/yan-zhou-jing-sai-7.m3u8
+#EXTINF:-1 tvg-name="广州综合" tvg-id="广州综合" tvg-logo="" group-title="地方频道", 广州综合
+https://stream1.freetv.fun/yan-zhou-zong-he-7.ctv
+#EXTINF:-1 tvg-name="广州电视台综合频道" tvg-id="广州电视台综合频道" tvg-logo="" group-title="地方频道", 广州电视台综合频道
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
+#EXTINF:-1 tvg-name="广州电视台新闻频道" tvg-id="广州电视台新闻频道" tvg-logo="" group-title="地方频道", 广州电视台新闻频道
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230
+#EXTINF:-1 tvg-name="广州电视台法治频道" tvg-id="广州电视台法治频道" tvg-logo="" group-title="地方频道", 广州电视台法治频道
+https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=6d133e82b12055c11f9d50dab61aeb9d&txTime=19182c08de9
+#EXTINF:-1 tvg-name="广州南国都市频道" tvg-id="广州南国都市频道" tvg-logo="" group-title="地方频道", 广州南国都市频道
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=7a9302751803950aa7bee6994f477b11&txTime=19182c0a3f6
+#EXTINF:-1 tvg-name="汕尾新闻综合" tvg-id="汕尾新闻综合" tvg-logo="" group-title="地方频道", 汕尾新闻综合
+https://stream1.freetv.fun/shan-wei-xin-wen-zong-he-2.ctv
+#EXTINF:-1 tvg-name="汕尾文化生活" tvg-id="汕尾文化生活" tvg-logo="" group-title="地方频道", 汕尾文化生活
+http://www.zz49.top:4022/udp/239.77.1.190:5146
+#EXTINF:-1 tvg-name="茂名综合" tvg-id="茂名综合" tvg-logo="" group-title="地方频道", 茂名综合
+http://www.zz49.top:4022/udp/239.77.0.204:5146
+#EXTINF:-1 tvg-name="茂名公共" tvg-id="茂名公共" tvg-logo="" group-title="地方频道", 茂名公共
+http://www.zz49.top:4022/udp/239.77.0.205:5146
+#EXTINF:-1 tvg-name="梅州一套综合频道" tvg-id="梅州一套综合频道" tvg-logo="" group-title="地方频道", 梅州一套综合频道
+http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
+#EXTINF:-1 tvg-name="梅州二套公共频道" tvg-id="梅州二套公共频道" tvg-logo="" group-title="地方频道", 梅州二套公共频道
+http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8?sign=276f91ae4d81609c4bd4b6717e680c83&t=663b3512
+#EXTINF:-1 tvg-name="江门侨乡生活" tvg-id="江门侨乡生活" tvg-logo="" group-title="地方频道", 江门侨乡生活
+http://www.zz49.top:4022/udp/239.77.0.196:5146
+#EXTINF:-1 tvg-name="江门综合" tvg-id="江门综合" tvg-logo="https://live.fanmingming.com/tv/江门综合.png" group-title="地方频道", 江门综合
+https://stream1.freetv.fun/jiang-men-zong-he-1.ctv
+#EXTINF:-1 tvg-name="河源公共" tvg-id="河源公共" tvg-logo="" group-title="地方频道", 河源公共
+http://120.234.49.38:7000/udp/239.21.0.49:3536
+#EXTINF:-1 tvg-name="河源综合" tvg-id="河源综合" tvg-logo="" group-title="地方频道", 河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
+#EXTINF:-1 tvg-name="河源综艺" tvg-id="河源综艺" tvg-logo="" group-title="地方频道", 河源综艺
+http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
+#EXTINF:-1 tvg-name="深圳公共频道" tvg-id="深圳公共频道" tvg-logo="" group-title="地方频道", 深圳公共频道
+http://www.zz49.top:4022/udp/239.77.1.9:5146
+#EXTINF:-1 tvg-name="深圳娱乐频道" tvg-id="深圳娱乐频道" tvg-logo="" group-title="地方频道", 深圳娱乐频道
+http://www.zz49.top:4022/udp/239.77.1.36:5146
+#EXTINF:-1 tvg-name="深圳电视剧频道" tvg-id="深圳电视剧频道" tvg-logo="" group-title="地方频道", 深圳电视剧频道
+http://www.zz49.top:4022/udp/239.77.1.7:5146
+#EXTINF:-1 tvg-name="深圳移动电视" tvg-id="深圳移动电视" tvg-logo="" group-title="地方频道", 深圳移动电视
+http://www.zz49.top:4022/udp/239.77.1.175:5146
+#EXTINF:-1 tvg-name="深圳财经生活" tvg-id="深圳财经生活" tvg-logo="" group-title="地方频道", 深圳财经生活
+https://stream1.freetv.fun/shen-zhen-cai-jing-sheng-huo-2.ctv
+#EXTINF:-1 tvg-name="深圳都市频道" tvg-id="深圳都市频道" tvg-logo="" group-title="地方频道", 深圳都市频道
+http://www.zz49.top:4022/udp/239.77.1.34:5146
+#EXTINF:-1 tvg-name="清新综合" tvg-id="清新综合" tvg-logo="" group-title="地方频道", 清新综合
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 tvg-name="韶关公共" tvg-id="韶关公共" tvg-logo="" group-title="地方频道", 韶关公共
+https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
+#EXTINF:-1 tvg-name="丰顺综合" tvg-id="丰顺综合" tvg-logo="" group-title="地方频道", 丰顺综合
+http://1b6467f415.iok.la:9931/tsfile/live/1100_1.m3u8
+#EXTINF:-1 tvg-name="云浮综合" tvg-id="云浮综合" tvg-logo="" group-title="地方频道", 云浮综合
+http://www.zz49.top:4022/udp/239.253.43.195:5146
+#EXTINF:-1 tvg-name="佛山公共" tvg-id="佛山公共" tvg-logo="" group-title="地方频道", 佛山公共
+https://stream1.freetv.fun/fo-shan-gong-gong-4.m3u8
+#EXTINF:-1 tvg-name="佛山综合" tvg-id="佛山综合" tvg-logo="https://live.fanmingming.com/tv/佛山综合.png" group-title="地方频道", 佛山综合
+https://stream1.freetv.fun/fo-shan-zong-he-4.ctv
+#EXTINF:-1 tvg-name="平远综合" tvg-id="平远综合" tvg-logo="" group-title="地方频道", 平远综合
+http://1b6467f415.iok.la:9931/tsfile/live/1097_1.m3u8
+
 
 #EXTINF:1 group-title="AKTV" tvg-id="aktv/28ai" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 28 AI 智慧賽馬
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
